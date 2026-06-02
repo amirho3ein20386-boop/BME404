@@ -3,5 +3,4 @@ vless://52ad04bc-eb90-4845-aae1-1f422522332f@173.245.59.191:8443?path=%2FRoBeRt&
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@104.19.208.184:8443?path=%2FRoBeRt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#BME-%F0%9F%87%AB%F0%9F%87%AE1
 vless://0b3e592c-4228-4409-8f90-c4e21863b51b@104.19.64.105:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#BME-%F0%9F%87%B5%F0%9F%87%B12
 vless://0b3e592c-4228-4409-8f90-c4e21863b51b@162.159.253.41:8443?path=%2Fdownload.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#BME-%F0%9F%87%B5%F0%9F%87%B13
-hysteria2://Masir_Sefid@18.194.238.82:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#BME-%F0%9F%8C%901
-hysteria2://Masir_Sefid@18.194.238.82:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#BME-%F0%9F%8C%902
+hysteria2://Masir_Sefid@18.184.229.139:444?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#BME-%F0%9F%8C%901
